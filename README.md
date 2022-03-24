@@ -8,11 +8,6 @@
 
 **实现对学生院系分布情况和学生专业人数统计的统计图表**
 
-![image-20220323214830728](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323214830728.png)![image-20220323214844755](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323214844755.png)![image-20220323214854705](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323214854705.png)![image-20220323214915639](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323214915639.png)![image-20220323214928743](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323214928743.png)![image-20220323214935970](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323214935970.png)
-
-![image-20220323221405488](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323221405488.png)
-
-![image-20220323221416804](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323221416804.png)
 
 ## 1. 创建Django项目、Vue项目和sims_app
 
@@ -90,7 +85,6 @@ npm run build
 
 #### 项目结构
 
-![image-20220323215227223](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323215227223.png)
 
 #### 启动项目
 
@@ -736,7 +730,7 @@ def college_dist(request):
 
 ## 9. vue前端页面结构
 
-![image-20220323223415077](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220323223415077.png)
+
 
 ## 10. 参考来源
 
