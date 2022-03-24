@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;   
+	min-height: 100vh;
+    background-image:url("../picture/2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+span {
+    margin-right: 5px
+}
+
+.login-box {
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    flex-wrap: wrap;
+    width: 750px;
+    height: 450px;
+    background-color: rgba(0,0,0,.5);
+    border: 10px;
+    padding: 20px 50px;
+    border-radius: 20px;
+}
+
+.login-box h1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 36px;
+}
+
+.login-box .input-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(-35px);
+}
+
+.login-box .input-box .input-text {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.login-box .input-box .input-text span {
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.login-box .input-box .input-text input {
+    border: 0;
+    padding: 6px;
+    border: 1px solid white;
+    background-color: #ffffff00;
+    color: #fff;
+    margin-top: 20px;
+    font-size: inherit;
+}
+
+.login-box .input-box .input-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    width: 185px;
+    height: 35px;
+    color: #fff;
+    background: linear-gradient(120deg,#a6c0fe 0%,#f68084 100%);
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-left: 46px;
+    outline:none
+}
+
+.login-box .input-box .sign-up {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    color: white;
+    font-size: 18px;
+    margin-left: 26px;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover{color:orange}
