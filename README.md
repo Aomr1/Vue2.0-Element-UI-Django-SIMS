@@ -9,9 +9,9 @@
 **实现对学生院系分布情况和学生专业人数统计的统计图表**
 
 **具体页面效果可查看pic文件夹**
-[登录界面](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
-[学生管理界面](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2.png)
-[课程管理界面](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2.png)
+![登录界面](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
+![学生管理界面](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2.png)
+![课程管理界面](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2.png)
 
 ## 1. 创建Django项目、Vue项目和sims_app
 
@@ -89,7 +89,7 @@ npm run build
 
 #### 项目结构
 
-[项目结构](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/%E6%80%BB%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
+![项目结构](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/%E6%80%BB%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
 
 
 #### 启动项目
@@ -736,7 +736,7 @@ def college_dist(request):
 
 ## 9. vue前端页面结构
 
-[vue前端项目结构](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/vue%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
+![vue前端项目结构](https://github.com/Aomr1/Vue2.0-Element-UI-Django-MySQL/blob/main/pic/vue%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
 
 ## 10. 参考来源
 
